@@ -1,0 +1,11 @@
+Comandos:
+
+npm create vite@latest "crud-institucion educativa" -- --template react
+
+npm install
+
+npm install @mui/material @emotion/react @emotion/styled
+
+npm install react-router-dom @mui/styles
+
+npm install @mui/icons-material
